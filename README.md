@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
  <h2> 💻Experience </h2>
-- Front-end 
+ Front-end 
 
 - 📫 How to reach me **abhishekkrverma7@gmail.com**
 
