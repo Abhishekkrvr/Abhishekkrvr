@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkrvr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrvr" /> </p>
 
 - 🌱 I’m currently learning **Frontend Development**
+- hjabvjGvsajsgviagbvajvivbhka j
+- asnb ajhahyvma
 
 - 📫 How to reach me **abhishekkrverma7@gmail.com**
 
