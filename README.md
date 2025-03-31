@@ -1,6 +1,6 @@
 <h1 align="center">Hello World👋<br> I'm Abhishek Verma</h1>
 <h3 align="center">A passionate Full Stack Learner</h3>
-<img align="right" alt="coding" width="500p" src="https://imgvisuals.com/cdn/shop/products/animated-isolated-coding-specialist-722044.gif?v=1698899302">
+<img align="right" alt="coding" width="400p" src="https://imgvisuals.com/cdn/shop/products/animated-isolated-coding-specialist-722044.gif?v=1698899302">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkrvr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrvr" /> </p>
 
