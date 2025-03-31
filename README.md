@@ -1,6 +1,6 @@
 <h1 align="center">Hello World👋<br> I'm Abhishek Verma</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="coding" width="400p" src="https://imgs.search.brave.com/-9WKxM1sLoBq8WtBqkXj57SfSmfwifhDk_KUQ9y-To4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXNp/Z25lci5naWY.gif">
+<img align="right" alt="coding" width="400p" src="https://imgs.search.brave.com/SccrcEKbwJlTNjEBGaAP-Bzp7belSzz74TbjlagxuC4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtYW5ncnktbWFu/LWNvZGluZy11NDB4/eXFyMjZxeWV6NzBm/LmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkrvr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrvr" /> </p>
 
