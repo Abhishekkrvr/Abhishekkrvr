@@ -1,5 +1,5 @@
 <h1 align="left">💫Hello I'm <br>Abhishek</h1>
-<h2 align="center">Self-taught frontend developer</h2>
+<h3 align="center">Self-taught frontend developer</h3>
 
 ### 🛠️ Currently Learning:
 - Frontend Development (HTML, CSS, JavaScript)
