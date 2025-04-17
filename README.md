@@ -24,7 +24,7 @@ I love turning ideas into working web apps.
 <a href="https://www.linkedin.com/in/abhishek-kr-verma-0942381b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kr. verma" height="30" width="40" /></a>
 <a href="https://instagram.com/theandyverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theandyverma" height="30" width="40" /></a> <a href="https://www.facebook.com/share/1X9Ehnqhqz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abhishek Verma" height="30" width="40" /></a>
 <a href="abhishekkrverma7@gmail.com" target="_blank">
-  <img align="center" src="https://clipartcraft.com/images/email-logo-png-gmail.png" alt="your.email@gmail.com" height="30" width="40" />
+  <img align="center" src="https://www.pngall.com/wp-content/uploads/13/Gmail-Logo-PNG-Picture.png" alt="your.email@gmail.com" height="30" width="40" />
 </a>
 
 
