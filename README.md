@@ -15,7 +15,6 @@ I love turning ideas into working web apps.
 
 ### 🚀 Goals:
 - Build real-world full-stack projects
-- Collaborate on open-source work
 - Learn modern frameworks like React and Next.js
 
 Let’s connect and grow together!
