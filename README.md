@@ -1,7 +1,6 @@
 <h1 align="left">💫Hello I'm <br>Abhishek</h1>
 <h3 align="center">Self-taught frontend developer</h3>
-<h2>
-  ### 🛠️ Currently Learning:
+### 🛠️ Currently Learning:
 - Frontend Development (HTML, CSS, JavaScript)
 - Responsive Web Design
 - Git & GitHub Basics
@@ -13,7 +12,6 @@
 
 ### ⚡ Fun Fact:
 I believe clean code = clean mind. Learning by doing is my mantra!
-</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkrvr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrvr" /> </p>
 
