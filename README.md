@@ -1,6 +1,6 @@
 <h1 align="left">💫Hello I'm <br>Abhishek</h1>
 <h3 align="center">Self-taught frontend developer</h3>
-###🛠️ Currently Learning:
+🛠️ Currently Learning:
 - Frontend Development (HTML, CSS, JavaScript)
 - Responsive Web Design
 - Git & GitHub Basics
