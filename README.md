@@ -7,12 +7,6 @@ I'm currently on a journey to master both frontend and backend development.
 From designing pixel-perfect interfaces to building powerful server-side logic,  
 I love turning ideas into working web apps.
 
-### 🔧 Tech Stack I'm working with:
-- Frontend: HTML, CSS, JavaScript, Bootstrap
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Tools: Git, GitHub, VS Code
-
 ### 🚀 Goals:
 - Build real-world full-stack projects
 - Learn modern frameworks like React and Next.js
