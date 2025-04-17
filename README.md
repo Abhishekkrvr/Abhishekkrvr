@@ -3,7 +3,7 @@
 
 Aspiring Full-Stack Web Developer | Passionate Learner | Code Explorer
 
-I'm currently on a journey to master both frontend and backend development.  
+I'm currently on a journey to master both frontend and backend development. 
 From designing pixel-perfect interfaces to building powerful server-side logic,  
 I love turning ideas into working web apps.
 
@@ -16,8 +16,6 @@ I love turning ideas into working web apps.
 ### 🚀 Goals:
 - Build real-world full-stack projects
 - Learn modern frameworks like React and Next.js
-
-Let’s connect and grow together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkrvr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrvr" /> </p>
 
