@@ -1,7 +1,24 @@
 <h1 align="left">💫Hello I'm <br>Abhishek</h1>
 <h3 align="center">Self-taught frontend developer</h3>
 
-Full-stack web development learner | Building responsive UIs and functional backends using MERN stack.
+Aspiring Full-Stack Web Developer | Passionate Learner | Code Explorer
+
+I'm currently on a journey to master both frontend and backend development.  
+From designing pixel-perfect interfaces to building powerful server-side logic,  
+I love turning ideas into working web apps.
+
+### 🔧 Tech Stack I'm working with:
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, VS Code
+
+### 🚀 Goals:
+- Build real-world full-stack projects
+- Collaborate on open-source work
+- Learn modern frameworks like React and Next.js
+
+Let’s connect and grow together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkrvr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrvr" /> </p>
 
