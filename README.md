@@ -1,4 +1,4 @@
-<h1 align="left">💫Hello I'm <br><span style="baby-blue;">Abhishek</span></h1>
+<h1 align="left">💫Hello I'm <br><span style="color:blue;">Abhishek</span></h1>
 <h3 align="left">Self-taught frontend developer</h3>
 
 Aspiring Full-Stack Web Developer | Passionate Learner | Code Explorer
