@@ -15,9 +15,7 @@ I love turning ideas into working web apps.
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://linkedin.openinapp.co/wrb7y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kr. verma" height="30" width="40" /></a>
-  
-<a href="https://instagram.com/theandyverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theandyverma" height="30" width="40" /></a>
+<a href="https://linkedin.openinapp.co/wrb7y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kr. verma" height="30" width="40" /></a> <a href="https://instagram.com/theandyverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theandyverma" height="30" width="40" /></a>
 
 </p>
 
