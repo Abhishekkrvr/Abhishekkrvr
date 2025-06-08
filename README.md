@@ -10,8 +10,8 @@ I love turning ideas into working web apps.
 ### 🚀 Goals:
 - Build real-world full-stack projects
 - Learn modern frameworks like React and Next.js
-- <h3 How to reach me:</h3>
-abhishekkrverma7@gmail.com
+- <h3 How to reach me:
+abhishekkrverma7@gmail.com </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkrvr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrvr" /> </p>
 
