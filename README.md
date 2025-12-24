@@ -1,36 +1,60 @@
 # Hi There! I am Abhishek Verma 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+Node.js;)](https://git.io/typing-svg)
 
-I'm currently on a journey to master both frontend and backend development. 
-From designing pixel-perfect interfaces to building powerful server-side logic,  
-I love turning ideas into working web apps.
+## About Me
 
-### 🚀 Goals:
-- Build real-world full-stack projects
-- Learn modern frameworks like React and Next.js
-### 📩 How to reach me:
-- abhishekkrverma7@gmail.com
+- Frontend developer building clean, scalable web apps with **React.js, Next.js, Node.js**, and **Tailwind CSS**
+- Sharing my learnings and projects on [Portfolio](https://abhishekkrverma.netlify.app/)
+- Portfolio & projects: [Portfolio](https://abhishekkrverma.netlify.app/)
+- Reach me at **abhishekkrverma7@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkrvr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrvr" /> </p>
+  
+## 🌐 Connect with me  
 
-<h3 align="left">🌐 Socials:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abhishek-kr-verma-0942381b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kr. verma" height="30" width="40" /></a> <a href="https://instagram.com/theandyverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theandyverma" height="30" width="40" /></a>
+<a href="mailto:abhishekkrverma7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+<a href="https://github.com/Abhishekkrvr"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<a href="https://www.linkedin.com/in/abhishek-kr-verma-0942381b3/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+
+## 🛠 Skills  
+
+**Programming Languages**  
+
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![Python](https://skillicons.dev/icons?i=python) 
+![TypeScript](https://skillicons.dev/icons?i=typescript)   
+
+**Frontend Development**  
+
+![React](https://skillicons.dev/icons?i=react) 
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
+![Tailwind](https://skillicons.dev/icons?i=tailwind) 
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css)  
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+
+
+**Other Tools**  
+
+![Git](https://skillicons.dev/icons?i=git) 
+![VS Code](https://skillicons.dev/icons?i=vscode) 
+
+
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=Abhishekkrvr&theme=tokyonight" height="150" />
+ 
 </p>
 
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left" style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+<br clear="both">
+  <h1></h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rey004/Rey004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rey004/Rey004/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rey004/Rey004/output/snake.svg" />
+</picture>
+
+
 
 
 
