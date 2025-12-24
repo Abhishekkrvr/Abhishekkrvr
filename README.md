@@ -17,15 +17,10 @@
 
 ## 🛠 Skills  
 
-**Programming Languages**  
-
-![JavaScript](https://skillicons.dev/icons?i=javascript) 
-![Python](https://skillicons.dev/icons?i=python) 
-![TypeScript](https://skillicons.dev/icons?i=typescript)   
-
 **Frontend Development**  
 
 ![React](https://skillicons.dev/icons?i=react) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![Next.js](https://skillicons.dev/icons?i=nextjs) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
 ![HTML](https://skillicons.dev/icons?i=html) 
