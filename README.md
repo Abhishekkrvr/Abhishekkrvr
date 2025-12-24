@@ -1,7 +1,5 @@
-<h1 align="left">👋Hi, I'm <br>Abhishek Verma</h1>
-<h3 align="left">Self-taught Frontend Developer</h3>
-
-Aspiring Full-Stack Web Developer | Passionate Learner | Code Explorer
+# Hi There! I am Abhishek Verma 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+Node.js;Exploring+Data+Science+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 I'm currently on a journey to master both frontend and backend development. 
 From designing pixel-perfect interfaces to building powerful server-side logic,  
