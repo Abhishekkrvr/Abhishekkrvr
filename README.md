@@ -45,10 +45,10 @@
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=Abhishekkrvr&theme=tokyonight" height="150" />
  
-</p>
+</p> -->
 
 <br clear="both">
   <h1></h1>
