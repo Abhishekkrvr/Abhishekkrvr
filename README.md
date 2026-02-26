@@ -31,9 +31,11 @@
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 
-**BAckend Development**
+**Backend Development**
 
 ![Express.js](https://skillicons.dev/icons?i=expressjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
 
 
 
