@@ -27,7 +27,6 @@
 ![Next.js](https://skillicons.dev/icons?i=nextjs) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
 ![Material UI](https://skillicons.dev/icons?i=materialui) 
-![GSAP](https://skillicons.dev/icons?i=gsap) 
 ![HTML](https://skillicons.dev/icons?i=html) 
 ![CSS](https://skillicons.dev/icons?i=css) 
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
