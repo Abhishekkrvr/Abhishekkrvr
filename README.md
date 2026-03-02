@@ -20,7 +20,7 @@
 
 ## 🛠 Skills  
 
-**Frontend Development**  
+## Frontend Development  
 
 ![React](https://skillicons.dev/icons?i=react) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
@@ -28,8 +28,9 @@
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
 ![Material UI](https://skillicons.dev/icons?i=materialui) 
 ![HTML](https://skillicons.dev/icons?i=html) 
-![CSS](https://skillicons.dev/icons?i=css)  
+![CSS](https://skillicons.dev/icons?i=css) 
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
 
 
 **Backend Development**
