@@ -20,7 +20,7 @@
 
 ## 🛠 Skills  
 
-## Frontend Development  
+**Frontend Development**
 
 ![React](https://skillicons.dev/icons?i=react) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
