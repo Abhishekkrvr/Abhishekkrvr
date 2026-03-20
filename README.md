@@ -24,6 +24,7 @@
 
 ![React](https://skillicons.dev/icons?i=react) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![TypeSceipt](https://skillicons.dev/icons?i=typescript) 
 ![Next.js](https://skillicons.dev/icons?i=nextjs) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
 ![Material UI](https://skillicons.dev/icons?i=materialui) 
