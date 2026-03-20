@@ -48,7 +48,6 @@
 
 ![Git](https://skillicons.dev/icons?i=git) 
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Cursor](https://skillicons.dev/icons?i=cursor) 
 
 
 
