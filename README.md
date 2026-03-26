@@ -1,5 +1,5 @@
 # Hi There! I am Abhishek Verma 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+Node.js;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+Node.js;Self+Taught;Let's+Build)](https://git.io/typing-svg)
 
 ## About Me
 
