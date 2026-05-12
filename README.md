@@ -27,7 +27,6 @@
 ![TypeSceipt](https://skillicons.dev/icons?i=typescript) 
 ![Next.js](https://skillicons.dev/icons?i=nextjs) 
 ![Redux](https://skillicons.dev/icons?i=redux) 
-![GSAP](https://skillicons.dev/icons?i=framer) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
 ![Material UI](https://skillicons.dev/icons?i=materialui) 
 ![HTML](https://skillicons.dev/icons?i=html) 
