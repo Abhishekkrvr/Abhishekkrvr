@@ -5,7 +5,6 @@
 
 - Frontend developer building clean, scalable web apps with **React.js, Next.js, Node.js**, and **Tailwind CSS**
 - Sharing my learnings and projects on [Portfolio](https://abhishekkrverma.netlify.app/)
-- Portfolio & projects: [Portfolio](https://abhishekkrverma.netlify.app/)
 - Reach me at **abhishekkrverma7@gmail.com**
 
   
