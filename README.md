@@ -12,7 +12,6 @@
 
 <a href="mailto:abhishekkrverma7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 <a href="https://www.linkedin.com/in/abhishek-kr-verma-0942381b3/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-<a href="https://www.instagram.com/theandyverma?igsh=MXNsNWs4OWxwY2J4"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
 
 
 
