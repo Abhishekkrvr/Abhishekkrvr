@@ -19,7 +19,7 @@
 
 ## 🛠 Skills  
 
-**Frontend Development**
+**Frontend**
 
 ![React](https://skillicons.dev/icons?i=react) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
@@ -32,7 +32,7 @@
 
 
 
-**Backend Development**
+**Backend**
 
 ![Express.js](https://skillicons.dev/icons?i=expressjs)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
